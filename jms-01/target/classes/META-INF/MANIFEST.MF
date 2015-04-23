@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: gs-messaging-jms
+Implementation-Version: 0.1.0
+Built-By: ￐ﾐ￐ﾽ￐ﾵ￐ﾻ￑ﾌ
+Implementation-Vendor-Id: org.springframework
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
